@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_984718_test_wish.test" name="x_984718_test_wish.test">411e64211b62211052aa6464604bcbda</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 13:54:39</sys_created_on>
+        <sys_id>6a1eec6d1b22211052aa6464604bcbf4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>411e64211b62211052aa6464604bcbda</sys_name>
+        <sys_package display_value="Test wishlist" source="x_984718_test_wish">ca9be4e51b22211052aa6464604bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test wishlist">ca9be4e51b22211052aa6464604bcb6a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6a1eec6d1b22211052aa6464604bcbf4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 13:54:39</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
